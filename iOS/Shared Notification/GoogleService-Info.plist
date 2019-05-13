@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>566313810692-b010070k3a1q09jbier71du2e4h8kng3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.566313810692-b010070k3a1q09jbier71du2e4h8kng3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAf45FjXNuS0xkUtI79qU4pqJmguR-TpU8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>566313810692</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.turensoft.Shared-Notification</string>
+	<key>PROJECT_ID</key>
+	<string>shared-notifications</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shared-notifications.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:566313810692:ios:4f607fdbb95e16fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://shared-notifications.firebaseio.com</string>
+</dict>
+</plist>
